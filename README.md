@@ -1,4 +1,4 @@
-# google-multiple-custom-marker
+# google-map-multiple-custom-marker
 Adding multiple custom marker in google map
 
 # Live Link
